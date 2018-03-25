@@ -16,7 +16,8 @@
 安装所有项目依赖项 
 1. React  `npm install -g creat-react-app`
 2. ProrTypes `npm install --save prop-types`
-3. React Router `npm install --save react-router-dom`
+3. 受控组件 `npm install --save escape-string-regexp sort-by`
+4. React Router `npm install --save react-router-dom`
 
 ## 下载
 git clone https://github.com/CSP1988/bookManage.git
